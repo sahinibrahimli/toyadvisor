@@ -1,5 +1,4 @@
-
 <?php
-
-window.location.replace('http://www.example.com')
+   header("Location: http://shahin-001-site1.ctempurl.com");
+   exit;
 ?>
